@@ -2,6 +2,8 @@
 
 A simple tool to create "pixel art" (not really pixel art, but pixelated images) from images. 
 
+![User Interface](images/interface.png)
+
 ## Features
 
 - No AI
