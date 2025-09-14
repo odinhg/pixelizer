@@ -4,6 +4,8 @@ A simple tool to create "pixel art" (not really pixel art, but pixelated images)
 
 ![User Interface](images/interface.png)
 
+[Click here for live demo.](https://huggingface.co/spaces/odinhg/pixelizer)
+
 ## Features
 
 - No AI
@@ -21,7 +23,7 @@ A simple tool to create "pixel art" (not really pixel art, but pixelated images)
 | ![Original Image](images/input3.png) | ![Pixelized Image](images/output3.png) |
 | ![Original Image](images/input4.png) | ![Pixelized Image](images/output4.png) |
 
-## How to use
+## How to use (locally)
 
 Using `uv`, simply run:
 
